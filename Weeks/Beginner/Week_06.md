@@ -1,0 +1,12 @@
+# Week 06 (Ramadan Kareem)
+   - SQL 
+      - ITI SQL Server [(Video 4)](https://youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&si=Hq9cy34qaT9fGehN)
+---
+  - Extra Resources for Help
+     - ITI Course [Materials](https://drive.google.com/drive/folders/1zMG-A-k0-JUV1sdphQvoeLimqWMH3HMX)
+     - Read and review from these [Slides](https://drive.google.com/drive/folders/1zIO5fsdij-1afPkfSJQzTIw8f9SFF8s6?usp=drive_link)
+     - If you fail to understand anything you can search here: [W3Schools](https://www.w3schools.com/sql/)
+---
+- Task
+    - Summarize what you understand from each video in a file and practice everything.
+    - Do ITI Assignments [Lab4](https://docs.google.com/document/d/17rF6dSZzezsupAitzA3w52_d0X6L1Mws/edit?usp=drive_link&ouid=115708496447827020766&rtpof=true&sd=true).

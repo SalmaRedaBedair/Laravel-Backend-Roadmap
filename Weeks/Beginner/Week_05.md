@@ -1,0 +1,12 @@
+# Week 05
+   - SQL 
+      - ITI SQL Server [(Video 2(start from 2:00:00) & Video 3)](https://youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA&si=Hq9cy34qaT9fGehN)
+---
+  - Extra Resources for Help
+     - ITI Course [Materials](https://drive.google.com/drive/folders/1zMG-A-k0-JUV1sdphQvoeLimqWMH3HMX)
+     - Read and review from these [Slides](https://drive.google.com/drive/folders/1zIO5fsdij-1afPkfSJQzTIw8f9SFF8s6?usp=drive_link)
+     - If you fail to understand anything you can search here: [W3Schools](https://www.w3schools.com/sql/)
+---
+- Task
+    - Summarize what you understand from each video in a file and practice everything.
+    - Do ITI Assignments [Lab2](https://drive.google.com/drive/folders/1KDzne6kTweVmOVfsM4c7J2MvvEJE93vq?usp=drive_link) [Lab3](https://drive.google.com/drive/folders/19vwU_8phlyZuBcAWvAUansMFsqbEeUKe?usp=drive_link).

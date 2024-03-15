@@ -1,0 +1,11 @@
+# Week 02
+   - Fundamentals of Database Systems
+      - [El Desoky first 3 chapters (videos 1:9)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+      -   [Database Design (videos 3:5)](https://youtube.com/playlist?list=PLfOk7Ih7aac8zCqTpqr6uWx8gYVl-i-4K) 
+---
+   - Extra Resources for Help
+     - If you fail to understand anything you can search here: [MaharaTech Course](https://maharatech.gov.eg/course/view.php?id=740)
+---
+- Task
+     - Summarize what you understand from each video in a file and practice everything.
+    - Read this [Case Study](https://drive.google.com/file/d/1DWNpveDlPPS0lBZ_bD88ayIma7XLVFQ4/view?usp=drive_link) then apply ERD & Mapping (This website may help [ERDPlus](https://erdplus.com/)).
